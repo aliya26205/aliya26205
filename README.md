@@ -1,13 +1,3 @@
-<!--
-  ============================================================
-  Aliya Banu — GitHub Profile README
-  ------------------------------------------------------------
-  HOW TO USE:
-  1. Create a repo named exactly: aliya2605/aliya2605 (must match your username)
-  2. Upload your banner image to: assets/github-banner.png
-  3. Replace every "REPLACE_WITH_..." placeholder below with your real links
-  ============================================================
--->
 
 <p align="center">
   <img src="./assets/github-banner.png" width="100%" alt="Aliya Banu GitHub Banner"/>
