@@ -109,30 +109,6 @@
 
 ---
 
-## 🧭 `developer_path`
-
-```text
-        ┌──────────┐
-        │  LEARN   │
-        └────┬─────┘
-             │
-             ▼
-        ┌──────────┐
-        │  BUILD   │
-        └────┬─────┘
-             │
-             ▼
-        ┌──────────┐
-        │  DEBUG   │
-        └────┬─────┘
-             │
-             ▼
-        ┌──────────┐
-        │ IMPROVE  │
-        └────┬─────┘
-             │
-             └──────────────↺ REPEAT
-```
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUG_FOUND-DEBUG_IT-FF8C42?style=for-the-badge&labelColor=0D1117" alt="Bug found">
