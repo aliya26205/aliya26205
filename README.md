@@ -1,26 +1,26 @@
 <!-- =========================================================
-     ALIYA BANU | ANIMATED GITHUB PROFILE README
-     Theme: Orange + Black
-     Banner: assets/github-banner.png
+     ALIYA BANU | GITHUB PROFILE README
+     THEME: ORANGE + BLACK
+     Save your banner as: assets/github-banner.png
 ========================================================= -->
 
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Aliya Banu - Developer Banner">
+  <img src="./assets/github-banner.png" width="100%" alt="Aliya Banu Developer Banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=F4A261&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aliya+Banu+%F0%9F%91%8B;MCA+Student+%7C+Aspiring+Developer;I+Learn.+I+Build.+I+Break.+I+Fix.+I+Repeat.;Currently+turning+%3Cideas%2F%3E+into+%7Bsolutions%7D.;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=800&color=F4A261&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aliya+Banu+%F0%9F%91%8B;MCA+Student+%7C+Aspiring+Developer;I+Learn.+I+Build.+I+Debug.+I+Repeat.;Turning+ideas+into+%7Bsolutions%7D.;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80" alt="Animated introduction">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_MY_FUTURE-F4A261?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=F4A261">
-  <img src="https://img.shields.io/badge/MODE-LEARNING-F4A261?style=for-the-badge&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/FUEL-COFFEE_%2B_CODE-F4A261?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_MY_FUTURE-F4A261?style=for-the-badge&labelColor=0D1117" alt="Status">
+  <img src="https://img.shields.io/badge/MODE-LEARNING-F4A261?style=for-the-badge&labelColor=0D1117" alt="Mode">
+  <img src="https://img.shields.io/badge/FUEL-COFFEE_%2B_CODE-FF8C42?style=for-the-badge&labelColor=0D1117" alt="Fuel">
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Aliya26/">
-    <img src="https://img.shields.io/badge/LeetCode-Aliya26-FFA62B?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-Aliya26-F4A261?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode">
   </a>
   <a href="https://www.linkedin.com/in/aliya-banu26/">
     <img src="https://img.shields.io/badge/LinkedIn-Aliya_Banu-F4A261?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
@@ -33,11 +33,11 @@
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│  👩🏻‍💻  Aliya Banu                                            │
-│  🎓  MCA Student                                             │
-│  💡  Aspiring Software Developer                             │
-│  🧠  Problem Solver in progress                              │
-│  🚀  Learning by building, building by learning              │
+│  👩🏻‍💻  name    → Aliya Banu                                 │
+│  🎓  role    → MCA Student + Aspiring Developer             │
+│  🧠  focus   → Problem Solving + DSA                        │
+│  🚀  status  → Learning. Building. Improving.               │
+│  ☕  runtime → powered by curiosity and coffee              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
@@ -48,64 +48,51 @@
 ## 🧡 `tech_stack.init()`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php&theme=dark&perline=6" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php&theme=dark" alt="Languages">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode&theme=dark&perline=6" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode&theme=dark" alt="Technologies and tools">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☕_LANGUAGES-LEARN_→_PRACTICE_→_MASTER-F4A261?style=flat-square&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/⚙️_MINDSET-KEEP_SHIPPING-F4A261?style=flat-square&labelColor=0D1117">
+  <code>learn → practice → build → improve → repeat</code>
 </p>
 
 ---
 
 ## 🎮 `current_quest.exe`
 
-<p align="center">
-
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                    🎯  CURRENTLY LEVELING UP                ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🟠  Data Structures & Algorithms                            ║
-║  🟠  Problem Solving                                         ║
-║  🟠  Java Development                                        ║
-║  🟠  Full Stack Development                                  ║
-║  🟠  Android Development                                     ║
-║  🟠  Machine Learning Fundamentals                           ║
+║  [01]  Data Structures & Algorithms                          ║
+║  [02]  Problem Solving                                       ║
+║  [03]  Java Development                                      ║
+║  [04]  Full Stack Development                                ║
+║  [05]  Android Development                                   ║
+║  [06]  Machine Learning Fundamentals                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LEVEL_UP_LOADING...-F4A261?style=for-the-badge&labelColor=0D1117" alt="Level up loading">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL_UP_LOADING...-F4A261?style=for-the-badge&labelColor=0D1117">
+  <i>no rush. no shortcuts. just consistent progress.</i>
 </p>
 
 ---
 
 ## 🔥 `github.analytics()`
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=aliya2605&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F4A261&icon_color=FF8C42&text_color=F5E6D3&ring_color=F4A261&include_all_commits=true&count_private=true&rank_icon=github" alt="Aliya's GitHub Stats">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliya2605&layout=compact&hide_border=true&bg_color=0D1117&title_color=F4A261&text_color=F5E6D3" alt="Aliya's Top Languages">
-</p>
+> These cards are generated inside this repository by GitHub Actions, so they don't depend on a public stats website loading every time.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliya2605&theme=dark&hide_border=true&background=0D1117&ring=F4A261&fire=FF8C42&currStreakLabel=F4A261&sideLabels=F5E6D3&dates=9B9B9B&stroke=0D1117" alt="Aliya's GitHub Streak">
-</p>
-
-> ⚠️ If a stats card temporarily shows as unavailable, refresh later — these cards are generated by external services and can occasionally hit rate limits.
-
----
-
-## 📈 `contribution_activity.log`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliya2605&bg_color=0D1117&color=F5E6D3&line=F4A261&point=FF8C42&area=true&area_color=F4A261&hide_border=true&custom_title=Aliya's%20Coding%20Journey" width="100%" alt="Aliya's contribution graph">
+  <img height="180" src="./profile/stats.svg" alt="Aliya's GitHub statistics">
+  <img height="180" src="./profile/top-langs.svg" alt="Aliya's most used languages">
 </p>
 
 ---
@@ -113,18 +100,16 @@
 ## 🐍 `snake_mode = ON`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliya2605/aliya2605/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake">
+  <img src="./profile/snake.svg" alt="Animated GitHub contribution snake">
 </p>
 
 <p align="center">
-  <sub>☝️ This one actually moves! It is generated automatically using the workflow included in this download.</sub>
+  <sub>watching my contribution graph get eaten, one square at a time 🟠</sub>
 </p>
 
 ---
 
 ## 🧭 `developer_path`
-
-<p align="center">
 
 ```text
         ┌──────────┐
@@ -146,14 +131,12 @@
         │ IMPROVE  │
         └────┬─────┘
              │
-             └───────────────↺ REPEAT
+             └──────────────↺ REPEAT
 ```
 
-</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/BUG_FOUND-DEBUG_IT-FF8C42?style=for-the-badge&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/CODE_WORKS-DON'T_TOUCH_IT-2D6A4F?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/BUG_FOUND-DEBUG_IT-FF8C42?style=for-the-badge&labelColor=0D1117" alt="Bug found">
+  <img src="https://img.shields.io/badge/CODE_WORKS-DON'T_TOUCH_IT-2D6A4F?style=for-the-badge&labelColor=0D1117" alt="Code works">
 </p>
 
 ---
@@ -161,26 +144,20 @@
 ## 🔗 `establish_connection()`
 
 <p align="center">
-
-<a href="https://leetcode.com/u/Aliya26/">
-  <img src="https://img.shields.io/badge/01_→_LEETCODE-FFA62B?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117">
-</a>
-
-<a href="https://www.linkedin.com/in/aliya-banu26/">
-  <img src="https://img.shields.io/badge/02_→_LINKEDIN-F4A261?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
-</a>
-
-<a href="https://github.com/aliya2605">
-  <img src="https://img.shields.io/badge/03_→_GITHUB-F5E6D3?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
-</a>
-
+  <a href="https://leetcode.com/u/Aliya26/">
+    <img src="https://img.shields.io/badge/01_→_LEETCODE-F4A261?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode">
+  </a>
+  <a href="https://www.linkedin.com/in/aliya-banu26/">
+    <img src="https://img.shields.io/badge/02_→_LINKEDIN-F4A261?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/aliya2605">
+    <img src="https://img.shields.io/badge/03_→_GITHUB-F5E6D3?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub">
+  </a>
 </p>
 
 ---
 
 ## 💬 `motivation.txt`
-
-<p align="center">
 
 ```text
 $ cat motivation.txt
@@ -193,13 +170,11 @@ $ echo $MINDSET
 
 progress > perfection
 consistency > intensity
-learning > knowing everything
+learning > pretending to know everything
 ```
 
-</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=F4A261&center=true&vCenter=true&width=650&lines=Keep+showing+up.;Keep+building.;Keep+getting+better.;Code.+Learn.+Build.+Repeat." alt="Closing typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=F4A261&center=true&vCenter=true&width=650&lines=Keep+showing+up.;Keep+building.;Keep+getting+better.;Code.+Learn.+Build.+Repeat." alt="Animated closing text">
 </p>
 
 <p align="center">
